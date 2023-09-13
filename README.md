@@ -8,3 +8,6 @@ index.html
 
 Browse to the published port on http://localhost:8088 - to see the content:
 image.png
+
+![image](https://github.com/LaVie-environment/dotock/assets/19356065/ae68cdc0-c201-4d16-b018-e1896811f4c1)
+
